@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;1,500&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
+body {
+font-family: 'Montserrat', sans-serif !important;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #fff !important;
+}
+.carousel-caption {
+  text-shadow: 0 0 6px #000;
+}
+.testimonials .carousel-indicators {
+  display: none;
+}
+.Footer {
+  background: #000;
+  padding: 20px 0;
+}
